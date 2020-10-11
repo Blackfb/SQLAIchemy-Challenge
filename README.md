@@ -1,4 +1,4 @@
-# SQLAlchemy Project - Surfs Up!..
+# SQLAlchemy Project - Surfs Up!...
 
 ### Overview
 
